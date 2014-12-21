@@ -3,7 +3,7 @@
 
 ![ScreenShot](http://i.imgur.com/bAG15k5.jpg{url})
 
-Lffl news Reader is a light and modern Android feed reader developed by @ivn888 (https://github.com/ivn888) and Me.
+Xda News Reader is a light and modern Android feed reader developed by @ivn888 (https://github.com/ivn888) and Me.
 
 https://play.google.com/store/apps/details?id=com.iven.xdafeedreader
 
